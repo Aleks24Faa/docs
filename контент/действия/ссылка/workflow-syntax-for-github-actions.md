@@ -1,4 +1,4 @@
----
+---is:open is:pr assignee:Aleks24Faa archived:false 
 title: Workflow syntax for GitHub Actions
 shortTitle: Workflow syntax
 intro: A workflow is a configurable automated process made up of one or more jobs. You must create a YAML file to define your workflow configuration.
@@ -11,7 +11,7 @@ versions:
   free-pro-team: '*'
   enterprise-server: '>=2.22'
 ---
-
+is:open is:pr assignee:Aleks24Faa archived:false 
 {% data reusables.actions.enterprise-beta %}
 {% data reusables.actions.enterprise-github-hosted-runners %}
 
